@@ -1,2 +1,2 @@
 First initialize the directory in the terminal where the code is stored.
-After thet type this -->  uvicorn main:app --reload
+After that type this -->  uvicorn main:app --reload
