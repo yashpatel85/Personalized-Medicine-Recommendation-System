@@ -1,0 +1,2 @@
+First initialize the directory where the code is stored.
+After thet type this -->  uvicorn main:app --reload
